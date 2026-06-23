@@ -1,0 +1,6 @@
+{
+  "name": "Seedance 2.5 Playground",
+  "description": "An interactive playground, API explorer, and code repository template for Seedance 2.5, featuring character motion transfer, layout guidance, and video-to-video dance generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
