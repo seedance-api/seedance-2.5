@@ -5,7 +5,13 @@
 [![Seedance Version](https://img.shields.io/badge/model-seedance--2.5--ultra-purple)](https://seedance2.ai)
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1200&auto=format&fit=crop&q=80" alt="SeeDance 2.5 Ultimate AI Dance & Pose Motion Transfer Banner" width="100%" style="border-radius: 10px;" />
+  <img
+    src="https://github.com/seedance-api/seedance-2.5/blob/main/Seedance-2.5.jpg?raw=true"
+    alt="Seedance 2.5 AI Video Generator" 
+    title="Seedance 2.5 Video Quality" 
+    width="800">
+  <br>
+  <em>Powered by Seedance 2.5 AI Technology</em>
 </p>
 
 Welcome to the **SeeDance 2.5 (Seedance 2.5)** developer repository. Developed on top of next-generation temporal attention and pose guidance diffusion networks, **Seedance 2.5** is ByteDance's flagship AI model for high-fidelity character consistency and ultra-realistic character motion transfer (Pose-to-Video, Video-to-Video).
